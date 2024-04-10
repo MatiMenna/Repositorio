@@ -1,0 +1,20 @@
+body {
+  background-image: url(https://w.forfun.com/fetch/09/09baf7182229f8548c7657b3538aea12.jpeg);
+  background-size: cover;
+  color: white;
+}
+html {
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+header { 
+ text-align: center;
+ background-color: bisque;
+ 
+ text-decoration: crimson;
+ padding: 3rem 2rem
+
+}
