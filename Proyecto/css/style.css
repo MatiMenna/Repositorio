@@ -1,20 +1,40 @@
 body {
-  background-image: url(https://w.forfun.com/fetch/09/09baf7182229f8548c7657b3538aea12.jpeg);
-  background-size: cover;
-  color: white;
+    background-image: url(https://w.forfun.com/fetch/09/09baf7182229f8548c7657b3538aea12.jpeg);
+    background-size: cover;
+    color: white;
 }
 html {
-    font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+font-family: "Oswald", sans-serif;
+
 }
 
 header { 
- text-align: center;
- background-color: bisque;
- 
- text-decoration: crimson;
- padding: 3rem 2rem
+    text-align: center;
+    background-color: bisque;
 
+
+padding: 3rem 2rem
+}
+
+header img {
+    display: flex;
+    justify-content: left;
+}
+
+.correo {
+color: rgb(18, 231, 196);
+}
+
+.chanito {
+color: rgb(18, 231, 196);
+}
+
+.mechamecha {
+font-size: 20px
+
+} 
+footer {
+    text-align: center;
+    font-size: 30px;
+    background-color:rgba(0, 0, 0, 0.377) ;
 }
